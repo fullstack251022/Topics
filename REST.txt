@@ -1,0 +1,10 @@
+REST stands for Representational State Transfer, which is an architectural style for designing web services.
+A RESTful API is a type of web API that uses HTTP requests to GET (read), POST (create), PUT (update), and DELETE (delete) data.
+
+RESTful APIs are based on a client-server model, where the server provides a set of URLs, 
+or endpoints, that the client can access to perform certain actions.
+The data is usually sent in JSON format, which is a lightweight data format that is easy to read and parse.
+
+In simpler terms, a RESTful API is a way for applications to communicate with each other over the internet,
+using a set of rules that make it easy to understand and use.
+It allows developers to build applications that can access data from other applications, and perform actions like creating, updating, or deleting data.
